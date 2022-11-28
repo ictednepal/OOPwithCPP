@@ -1,0 +1,23 @@
+Do While Syntax
+---------------
+initialization;
+do{
+	//statement
+	//increment/ decrement
+}while(Condition);
+
+
+While Syntax
+-------------
+initialization;
+while(Condition){
+	//statement
+	//increment/ decrement
+}
+
+for syntax
+-----------
+for(initialization; condition; increment/decrement)
+{
+	//statement
+}
