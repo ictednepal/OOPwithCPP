@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/VJCPP",
-      "program": "d:/VJCPP/build/Debug/outDebug",
+      "cwd": "d:/VJCPP/3_Control_Statement",
+      "program": "d:/VJCPP/3_Control_Statement/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
